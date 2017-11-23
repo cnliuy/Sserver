@@ -1,8 +1,9 @@
 ## eureka微服务（服务提供方）
 
 * 类似这样的 "eureka微服务" 都将注册到"eureka服务中心"，供"消费者"调用。   
-  "eureka微服务" 本项目  
-  "eureka服务中心" https://github.com/cnliuy/Sscenter  
+  "eureka微服务" ---本项目  
+  "eureka服务中心" ---https://github.com/cnliuy/Sscenter  
+  "eureka消费者" ---https://github.com/cnliuy/Scclient  
   
 >  当微服务遇到切换地址等情况，"消费者"可以通过 "eureka服务中心" 获取到"服务"改变的消息。  
   
@@ -18,4 +19,10 @@
   
 https://github.com/cnliuy/Sserver.git  
 
-参考：
+参考：  
+  
+    
+----  
+en笔记 搜索：  
+关键词  eureka 服务 测试 demo  
+
