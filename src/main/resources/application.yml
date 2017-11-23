@@ -1,0 +1,12 @@
+# eureka 服务提供商, 第二个启动
+server:
+  port: 8002
+  
+spring:
+  application:
+    name: spring-cloud-producer
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8001/eureka/    
