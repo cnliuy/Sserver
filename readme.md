@@ -9,7 +9,13 @@
   
 * 启动顺序：  
        第二个启动。端口 8002   
-  
+   
+   http://192.168.18.113:8002/hello?name=123  
+     
+         显示：  hello 123，this is first messge  
+           
+           
+     
 * 原理：  
               
 > eureka微服务---(注册)---> eureka服务中心 <---(调用)---eureka微服务的使用者  
