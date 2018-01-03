@@ -36,7 +36,8 @@ https://github.com/cnliuy/Sserver.git
 
 参考：  
   
-    
+ .classpath 和 .project 的 配置文件放在 rootsrc  
+       
 ----  
 en笔记 搜索：  
 关键词  eureka 服务 测试 demo  
